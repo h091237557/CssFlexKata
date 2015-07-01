@@ -1,0 +1,20 @@
+
+body{
+	background-color:#999;
+	padding:20px;
+	font:87.5%/1.4 HelveticaNeu,"Helvetica Neue",Helvetica,Arial,sans--serif;	
+}
+
+p{
+	margin:0;
+	padding:0 0 1em 0;
+}
+
+.col-wrapper{
+	background-color:#efefef;
+	color:#444;
+	padding:20px;
+	border-radius:5px;
+	box-shadow:inset 2px 1px 4px 1px rgba(0,0,0,0.2);
+	-webkit-column-width:220px;
+}
