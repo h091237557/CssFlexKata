@@ -17,4 +17,12 @@ p{
 	border-radius:5px;
 	box-shadow:inset 2px 1px 4px 1px rgba(0,0,0,0.2);
 	-webkit-column-width:220px;
+	-webkit-column-gap: 1.5em;
+	-webkit-column-rule:2px dotted #ccc;
+
+}
+
+.col-wrapper h1{
+	-webkit-column-span:all;
+	padding:0 0 .5em 0;
 }
